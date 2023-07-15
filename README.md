@@ -1,4 +1,4 @@
-# flutter_show_case_view
+# Flutter Show Case View
 
 A new Flutter project.
 
