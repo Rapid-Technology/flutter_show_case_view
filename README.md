@@ -1,6 +1,6 @@
 # Flutter Show Case View
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/3Coi82Imx3Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=3Coi82Imx3Y)
 
 ## Getting Started
 
